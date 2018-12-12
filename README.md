@@ -1,5 +1,7 @@
 # fdb-clusterfile
 
+[![Build Badge](https://travis-ci.org/dkoston/fdb-clusterfile.svg?branch=master)](https://travis-ci.org/dkoston/fdb-clusterfile)
+
 Builds a foundationdb fdb.cluster file from hostnames of cluster coordinators
 
 ## Purpose
